@@ -17,8 +17,8 @@ import java.util.HashMap;
  */
 public class ElecFTkaonWagon extends Wagon {
 
-	public elecFTkaonWagon(){
-        super("elecFTkaonWagon","baltzell","0.1");
+	public ElecFTkaonWagon(){
+        super("ElecFTkaonWagon","baltzell","0.1");
     }
 
 	@Override
