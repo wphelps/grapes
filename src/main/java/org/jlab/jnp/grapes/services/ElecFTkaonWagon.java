@@ -65,10 +65,6 @@ public class ElecFTkaonWagon extends Wagon {
 		}
 	}
 
-	}
-
-	}
-
 	private HashMap<Integer, ArrayList<Integer>> mapByIndex(HipoNode indices) {
 		HashMap<Integer, ArrayList<Integer>> map = new HashMap<Integer, ArrayList<Integer>>();
 		for (int ii = 0; ii < indices.getDataSize(); ii++) {
